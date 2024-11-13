@@ -1,0 +1,50 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/gAHLe9J",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenido",
+                    "title1": "NACION SALVAJE",
+                    "text1": "-Únete a nuestra comunidad, tienes un enlace a Discord mas abajo.\n\n -Lee y respeta las normas (están creadas para una mejor convivencia).\n\n -PROHIBIDO PERSONAJES CON NOMBRE HUMANO.\n",
+                    "imageurl": "https://imgur.com/gAHLe9J"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "NORMATIVAS",
+                    "title1": "NORMAS BASICAS",
+                    "text1": "-No faltar respeto a jugadores o administradores.\n\n -Obligatorio registrar tribu en Discord.\n\n -Obligatorio leer bien las normativas.\n\n -Prohibido personaje con nombre Humano.\n\n -No construir en zonas de Respawn de recursos o jugadores.\n\n -Recoger trampas despues de su uso.\n\n -No abandonar dinos por el mapa.\n\n -Leer normativa completa en discord.\n\n -El desconocimiento de la normativa no exime de su cumplimiento.\n",
+                    "imageurl": "https://imgur.com/gAHLe9J"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/hBTGeSEGJg"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Web",
+                    "url": "https://nacionsalvaje.blogspot.com/"
+                }
+            }
+        ]
+    }
+}
